@@ -4,7 +4,7 @@
 #include <DHT_U.h>
 
 int led= 3;
-int SENSOR = 4;
+int SENSOR = 2;
 int temperatura;
 int humedad;
 
