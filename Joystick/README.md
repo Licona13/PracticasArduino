@@ -13,8 +13,11 @@ Ademas los leds tambien encenderan cuantro el joystick esté entre dos direccion
 ## Diagrama de conexión
 ![Joystick diagrama](https://github.com/user-attachments/assets/e070aa07-6c5d-405b-81be-fa97c6153395)
 
-Funcionamiento:
-Moviendo el joystick hacia los lados: Cuando se apunta el joystick hacia alguno de los leds este led enciende
-Joystick apuntando en un punto intermedio: Encienden los dos leds cercanos a donde se apunta
-Joystick estatico: Si no se mueve el joystick ningún led debería encender
+
+
+
+## Funcionamiento:
+Moviendo el joystick hacia los lados: Cuando se apunta el joystick hacia alguno de los leds este led enciende.
+Joystick apuntando en un punto intermedio: Encienden los dos leds cercanos a donde se apunta.
+Joystick estatico: Si no se mueve el joystick ningún led debería encender.
 
