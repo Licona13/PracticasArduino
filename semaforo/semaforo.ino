@@ -1,6 +1,6 @@
-int rojo = 13;
-int amarillo = 10;
-int verde = 8;
+int rojo = 2;
+int amarillo = 4;
+int verde = 7;
 
 
 void setup() {
