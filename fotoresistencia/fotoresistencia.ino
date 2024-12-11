@@ -1,4 +1,4 @@
-int ldr =  A5;
+int ldr =  A0;
 int valor;
 int led =13;
 int limite = 100;
