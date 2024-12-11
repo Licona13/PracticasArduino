@@ -5,6 +5,7 @@ En esta práctica se utilizará un LED RGB para generar combinaciones de colores
 2. Protoboard
 3. Cables jumpers 
 4. 3 resistencias
+5.  Led RGB
 
 ## Diagrama de conexión
 ![Conexion rgb](https://github.com/user-attachments/assets/4014636d-a069-4a58-95b9-6d3fa75f7239)
