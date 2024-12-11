@@ -1,7 +1,7 @@
 En esta practica se controlara el encendido de leds en diferentes direcciones: arriba, abajo, izquierda y derecha, utilizando un Joystick. 
 Ademas los leds tambien encenderan cuantro el joystick esté entre dos direcciones 
 
-##Material que se va a utilizar:
+## Material que se va a utilizar:
 1. Arduino 
 2. Joystick analógico
 3. 4 LEDs
@@ -10,7 +10,7 @@ Ademas los leds tambien encenderan cuantro el joystick esté entre dos direccion
 6. 4 jumpers hembra-macho
 7. Protoboard
 
-##Diagrama de conexión
+## Diagrama de conexión
 ![Joystick diagrama](https://github.com/user-attachments/assets/e070aa07-6c5d-405b-81be-fa97c6153395)
 
 Funcionamiento:
