@@ -14,6 +14,7 @@ VCC a 5V del Arduino.
 GND a GND del Arduino.
 Trig a pin 10 del Arduino.
 Echo a pin 11 del Arduino.
+
 LEDs:
 
 Conecta cada LED a los pines 3, 4, 5, 6, 7 y 8 del Arduino.
