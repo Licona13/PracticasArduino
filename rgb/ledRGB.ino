@@ -1,6 +1,6 @@
-int rojo = 11;
-int verde = 10;
-int azul = 9;
+int rojo = 3;
+int verde = 5;
+int azul = 6;
 
 void setup() {
   // put your setup code here, to run once:
@@ -26,10 +26,6 @@ void loop() {
     digitalWrite (verde, 0);
     delay (2000);*/
 
-    /*digitalWrite (rojo,200);
-    digitalWrite (azul,1);
-    digitalWrite (verde, 100);
-    delay (2000);*/
     
   
 
