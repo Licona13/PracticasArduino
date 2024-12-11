@@ -13,8 +13,6 @@ Ademas los leds tambien encenderan cuando el joystick esté entre dos direccione
 ## Diagrama de conexión
 ![Joystick diagrama](https://github.com/user-attachments/assets/e070aa07-6c5d-405b-81be-fa97c6153395)
 
-## Código: 
-**'joystick.ino'**
 
 
 ## Funcionamiento:
