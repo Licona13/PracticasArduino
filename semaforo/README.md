@@ -12,10 +12,10 @@ Las luces del semáforo se van a representar con leds.
 
 ![Conexion semaforo](https://github.com/user-attachments/assets/7a59f4db-c458-421e-b9ce-e9fdc5f39174)
 
-Conecta el LED rojo al pin digital 13 con una resistencia.
-Conecta el LED amarillo al pin digital 10 con una resistencia.
-Conecta el LED verde al pin digital 8 con una resistencia.
-Asegúrate de conectar las patas negativas de los LEDs a GND.
+Conecta el LED rojo al pin digital 2 con una resistencia.
+Conecta el LED amarillo al pin digital 4 con una resistencia.
+Conecta el LED verde al pin digital 7 con una resistencia.
+Conecta las patas negativas de los LEDs a GND usando las resistencias.
 
 ## Funcionamiento:
 LED verde:  se encenderá durante 4 segundos para simular el pase de vehículos. Luego, se apagará.
