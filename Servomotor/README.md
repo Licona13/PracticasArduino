@@ -9,6 +9,7 @@ El servomotor es un motor controlado que permite posicionar su eje en un angulo 
 5. Cables jumpers
 
 ## Diagrama de conexión
+![Conexion Servomotor](https://github.com/user-attachments/assets/57b33de6-e4ee-401e-9b5a-e453ba96a900)
 
 
 
