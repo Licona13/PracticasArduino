@@ -5,8 +5,9 @@ Los leds sirven para representar visualmente la intensidad de sonido que detecta
 1. Placa Arduino
 2. Protoboard
 3. Cables jumpers 
-4. 3 leds
-5. Sensor sonido
+4. 6 leds
+5. 6 resistencias
+6. Sensor sonido
  
 ## Diagrama de conexión
 ![conexion circuito sonido](https://github.com/user-attachments/assets/f37e37f8-0d90-4834-9eb1-82781acd8e1c)
